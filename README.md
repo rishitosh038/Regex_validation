@@ -131,13 +131,3 @@ After completing this project, you will be able to:
 - Explain regex concepts confidently in interviews
 
 ---
-
-## Possible Improvements
-
-- Add GUI using Tkinter
-- Add Unit Testing using unittest
-- Convert to a Web Form using Flask/Django
-- Add database storage
-- Implement stronger password rules
-
----
